@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/System_Background/System_Background.iml" filepath="$PROJECT_DIR$/Java/System_Background/System_Background.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/System_Phone/System_Phone.iml" filepath="$PROJECT_DIR$/Java/System_Phone/System_Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/System_Reception/System_Reception.iml" filepath="$PROJECT_DIR$/Java/System_Reception/System_Reception.iml" />
+    </modules>
+  </component>
+</project>
